@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import CatList from './CatList';
  
-export default class CatIndex extends Component {
+export default class CatIndex extends Component{
  constructor (props) {
    super(props);
    this.state = {
