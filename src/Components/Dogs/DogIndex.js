@@ -24,7 +24,6 @@ export default class DogIndex extends Component{
 
     
 
-
     render() {
         return(
         <div>
