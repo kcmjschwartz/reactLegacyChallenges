@@ -22,6 +22,7 @@ export default class DogIndex extends Component{
         this.fetchImage()
     }
 
+   
     
 
     render() {
